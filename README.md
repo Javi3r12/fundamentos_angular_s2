@@ -1,5 +1,5 @@
-# FundamentosAngularS2
-
+# Fundamentos Angular
+### Ejemplo PGY4121 s2
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
 
 ## Development server
